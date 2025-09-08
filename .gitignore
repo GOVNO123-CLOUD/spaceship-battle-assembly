@@ -1,0 +1,77 @@
+# Visual Studio and MASM specific files
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.exe.recipe
+*.tlog
+*.log
+*.idb
+
+# Build directories
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Assembly specific
+*.lst
+*.cod
+*.map
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Windows specific
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# Documentation build
+docs/_build/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db

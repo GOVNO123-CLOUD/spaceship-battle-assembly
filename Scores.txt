@@ -1,0 +1,64 @@
+------------------------
+Name : nomi
+Score : 26
+LEVEL : 2
+------------------------
+Name : hafeez
+Score : 61
+LEVEL : 2
+------------------------
+Name : hello
+Score : 266
+LEVEL : 3
+------------------------
+Name : 
+Score : 6
+LEVEL : 1
+------------------------
+Name : natasha
+Score : 6
+LEVEL : 1
+------------------------
+Name : fin
+Score : 1
+LEVEL : 1
+------------------------
+Name : power
+Score : 1
+LEVEL : 1
+------------------------
+Name : alikhan
+Score : 26
+LEVEL : 2
+------------------------
+Name : umer
+Score : 1
+LEVEL : 1
+------------------------
+Name : rehman
+Score : 11
+LEVEL : 2
+------------------------
+Name : abdullahnouman
+Score : 76
+LEVEL : 2
+------------------------
+Name : uchiha
+Score : 1466
+LEVEL : 3
+------------------------
+Name : nomi
+Score : 26
+LEVEL : 2
+------------------------
+Name : azhan 
+Score : 486
+LEVEL : 3
+------------------------
+Name : sir usama
+Score : 456
+LEVEL : 3
+------------------------
+Name : demo dy rha hu
+Score : 6
+LEVEL : 1
